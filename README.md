@@ -24,4 +24,4 @@ Below is the project structure:
 2. On the Airflow UI Admin tab select **Connections** and create **Conn Id** for **_redshift_** with the correct PostgreSql connection credentials.
 3. Execute the dag from the UI.
 
-![DAG graph view design](./dag.PNG)
+![DAG graph view design](./dag.png)
